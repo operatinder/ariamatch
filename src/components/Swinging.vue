@@ -1,31 +1,34 @@
 <template>
-<div class="swing">
-   <vue-swing
-    @throwout="onThrowout"
-    :config="config"
-    ref="vueswing"
-  >
-    <div
-      v-for="card in cards"
-      :key="card.id"
-      class="swing-card"
+  <div class="swing">
+     <vue-swing
+      ref="vueswing"
+      :config="config"
+      @throwout="onThrowout"
     >
-     <div class="container">
-      <img
-        :src="card.thumbnail">
-      <span class="label">{{ card.label }}</span>
-      <div class="length">{{ card.length }}</div>
-     </div>
-    </div>
-  </vue-swing>
+      <div
+        v-for="card in cards"
+        :key="card.id"
+        class="swing-card"
+      >
+       <div class="container">
+        <img
+          :src="card.thumbnail"
+>
+        <span class="label">{{ card.label }}</span>
+        <div class="length">
+{{ card.length }}
 </div>
+       </div>
+      </div>
+    </vue-swing>
+  </div>
 </template>
 
 <script>
 import VueSwing from 'vue-swing'
 
 export default {
-  name: 'swing',
+  name: 'Swinging',
 
   components: { VueSwing },
 

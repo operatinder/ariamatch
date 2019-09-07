@@ -13,7 +13,7 @@ import $backend from '../backend'
 import Swinging from './Swinging.vue'
 
 export default {
-  name: 'dashboard',
+  name: 'Dashboard',
   components: {
     Swinging
   },

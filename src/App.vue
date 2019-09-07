@@ -1,9 +1,15 @@
 <template>
 <div id="app">
-  <Dashboard/>
-  <div id="welcome" hidden>
-    <img alt="logo" src="./assets/logo.png">
-    <Welcome msg="Aria Match"/>
+  <Dashboard />
+  <div
+id="welcome"
+hidden
+>
+    <img
+alt="logo"
+src="./assets/logo.png"
+>
+    <Welcome msg="Aria Match" />
   </div>
 </div>
 </template>
@@ -13,7 +19,7 @@ import Dashboard from './components/Dashboard.vue'
 import Welcome from './components/Welcome.vue'
 
 export default {
-  name: 'app',
+  name: 'App',
   components: {
     Welcome,
     Dashboard
