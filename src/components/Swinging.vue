@@ -14,11 +14,10 @@
       <img
         :src="card.thumbnail">
       <span class="label">{{ card.label }}</span>
-      <small>{{ card.length }}</small>
+      <div class="length">{{ card.length }}</div>
      </div>
     </div>
   </vue-swing>
-  <img src="@/assets/logo.png">
 </div>
 </template>
 

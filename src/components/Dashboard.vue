@@ -1,7 +1,7 @@
 <template>
 <div class="about">
 
-  <Swinging v-for="segment in segments" :card="segment" :key="segment.id" />
+  <Swinging :cards="segments" />
 
 </div>
 </template>
