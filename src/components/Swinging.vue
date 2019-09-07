@@ -20,7 +20,7 @@
         </div>
         <av-waveform
           :audio-src="card.file"
-          v-on="waveEvent"
+          @v-on="waveEvent"
         />
        </div>
       </div>
