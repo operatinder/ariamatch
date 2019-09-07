@@ -9,7 +9,7 @@ hidden
 alt="logo"
 src="./assets/logo.png"
 >
-    <Welcome msg="Aria Match" />
+    <Welcome />
   </div>
 </div>
 </template>

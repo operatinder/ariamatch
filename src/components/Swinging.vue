@@ -1,6 +1,6 @@
 <template>
   <div class="swing">
-     <vue-swing
+    <vue-swing
       ref="vueswing"
       :config="config"
       @throwout="onThrowout"
@@ -11,13 +11,17 @@
         class="swing-card"
       >
        <div class="container">
-        <img
-          :src="card.thumbnail"
->
-        <span class="label">{{ card.label }}</span>
+        <div class="thumb" v-bind:style="{ 'background-image': 'url(' + card.thumbnail + ')' }" />
+        <div class="label">
+          {{ card.label }}
+        </div>
         <div class="length">
-{{ card.length }}
-</div>
+          {{ card.length }}
+        </div>
+        <av-waveform
+          v-on="waveEvent"
+          :audio-src="card.file"
+        />
        </div>
       </div>
     </vue-swing>
@@ -30,7 +34,9 @@ import VueSwing from 'vue-swing'
 export default {
   name: 'Swinging',
 
-  components: { VueSwing },
+  components: {
+    VueSwing
+  },
 
   props: {
     cards: Array
@@ -49,9 +55,13 @@ export default {
     }
   },
   methods: {
+    onLoad () {},
+    waveEvent(e) {
+        console.log(e)
+    },
     onThrowout ({ target, throwDirection }) {
       target.hidden = true
-      console.log(`Threw out ${target.textContent}!`)
+      // console.log(`Threw out ${target.textContent}!`)
     }
   }
 }
@@ -60,7 +70,7 @@ export default {
 <style scoped lang="scss">
 
 .swing {
-  height: 400px;
+  height: 600px;
   margin-top: 50px;
 }
 .swing-card {
@@ -69,14 +79,18 @@ export default {
   border-radius: 20px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   display: flex;
-  height: 400px;
+  height: 440px;
   justify-content: center;
   position: absolute;
-  left: calc(50% - 150px);
-  width: 300px;
+  left: calc(50% - 275px);
+  width: 550px;
 }
-.swing-card img {
+.swing-card .thumb {
   pointer-events: none;
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .swing-card p {
   font-size: 32pt;

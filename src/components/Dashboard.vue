@@ -20,15 +20,23 @@ export default {
   data () {
     return {
       segments: [{
-        'id': 'asdf1',
-        'thumbnail': '/favicon.ico',
-        'label': 'Aria 45 n°2',
-        'length': '03:44'
+        'id': 1,
+        'thumbnail': '/covers/Mozart_magic_flute.jpg',
+        'label': 'Aria 45 n°1',
+        'length': '03:44',
+        'file': '/data/NYCO - Tape 18 Track1 Channel2 - Test1.mp3'
       },{
-        'id': 'asdf2',
-        'thumbnail': '/favicon.ico',
+        'id': 2,
+        'thumbnail': '/covers/Max_Slevogt_Zauberflöte_Szene.jpg',
+        'label': 'Aria 42 n°2',
+        'length': '02:44',
+        'file': '/data/NYCO - Tape 18 Track1 Channel2 - Test2.mp3'
+      },{
+        'id': 3,
+        'thumbnail': '/covers/DBP_1991_1571_Block_26_Wolfgang_Amadeus_Mozart.jpg',
         'label': 'Aria 42 n°3',
-        'length': '03:44'
+        'length': '01:44',
+        'file': '/data/NYCO - Tape 18 Track1 Channel2 - Test3.mp3'
       }]
     }
   },
