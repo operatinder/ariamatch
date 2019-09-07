@@ -2,13 +2,13 @@
 <div id="app">
   <Dashboard />
   <div
-id="welcome"
-hidden
->
+    v-show="false"
+    id="welcome"
+  >
     <img
-alt="logo"
-src="./assets/logo.png"
->
+      alt="logo"
+      src="./assets/logo.png"
+    >
     <Welcome />
   </div>
 </div>
@@ -27,14 +27,4 @@ export default {
 }
 </script>
 
-<style>
-div[hidden] { display: none; }
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+<style src="./assets/app.scss" lang="scss" />

@@ -19,8 +19,8 @@
           {{ card.length }}
         </div>
         <av-waveform
-          v-on="waveEvent"
           :audio-src="card.file"
+          v-on="waveEvent"
         />
        </div>
       </div>
@@ -68,37 +68,5 @@ export default {
 </script>
 
 <style scoped lang="scss">
-
-.swing {
-  height: 600px;
-  margin-top: 50px;
-}
-.swing-card {
-  align-items: center;
-  background-color: #fff;
-  border-radius: 20px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  display: flex;
-  height: 440px;
-  justify-content: center;
-  position: absolute;
-  left: calc(50% - 275px);
-  width: 550px;
-}
-.swing-card .thumb {
-  pointer-events: none;
-  width: 100%;
-  height: 200px;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-.swing-card p {
-  font-size: 32pt;
-  margin: 0;
-}
-.swing-card .card-labels {
-  display: block;
-  width: 100%; height: 1.4em;
-  overflow: hidden;
-}
+// See app.scss
 </style>
