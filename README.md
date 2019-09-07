@@ -1,18 +1,27 @@
-# ariamatch
+# :performing_arts: Opera Forever :ring:
+
+A [#GLAMhack](http://make.opendata.ch/wiki/project:opera_tinder) created at Arsénaux, Sion, Switzerland on September 6-8, 2019.
+
+Made with [Vue.js](https://vuejs.org/v2/cookbook/index.html) and [Bootstrap Vue](https://bootstrap-vue.js.org/docs/).
 
 ## Project setup
+
+To install yarn, see [Getting Started guide](https://yarnpkg.com/en/docs/getting-started), or just do: `npm install -g yarn` if you're reckless/don't have time/are on your way to the Opera.
+
 ```
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+yarn serve
 ```
+
+At this point, you can open a browser to the displayed addresses.
 
 ### Compiles and minifies for production
 ```
-yarn run build
+yarn build
 ```
 
 ### Run your tests
