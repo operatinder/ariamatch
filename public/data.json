@@ -165,7 +165,124 @@
                         }
                     ],
                     "id": "WAM-018",
-                    "recording": "NYCO-Tape18-Track1-Channel2"
+                    "recording": "NYCO-Tape18-Track1-Channel2",
+                    "segments": [
+                        {
+                            "id": 1,
+                            "label": "Overture",
+                            "type": "instrumental",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_01.mp3",
+                            "start": "00:02:07",
+                            "end": "00:08:50"
+                        },
+                        {
+                            "id": 2,
+                            "label": "Zu hilfe zu hilfe!",
+                            "type": "quartet",
+                            "roles": [
+                                "Tamino",
+                                "First Lady",
+                                "Second Lady",
+                                "Third Lady"
+                            ],
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_02.mp3",
+                            "start": "00:08:50",
+                            "end": "00:15:22"
+                        },
+                        {
+                            "id": 3,
+                            "label": "Wo bin ich? Ist es Phantasie",
+                            "type": "aria",
+                            "roles": [
+                                "Tamino"
+                            ],
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_03.mp3",
+                            "start": "00:15:29",
+                            "end": "00:15:37"
+                        },
+                        {
+                            "id": 4,
+                            "label": "Der Vogelf\u00e4nger bin ich ja",
+                            "type": "aria",
+                            "roles": [
+                                "Papageno"
+                            ],
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_04.mp3",
+                            "start": "00:15:38",
+                            "end": "00:18:06"
+                        },
+                        {
+                            "id": 5,
+                            "label": "He da! Was da!",
+                            "type": "recitative",
+                            "roles": [
+                                "Tamino",
+                                "Papageno"
+                            ],
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_05.mp3",
+                            "start": "00:18:09",
+                            "end": "00:20:34"
+                        },
+                        {
+                            "id": 6,
+                            "label": "Dies Bildnis ist bezaubernd sch\u00f6n",
+                            "type": "aria",
+                            "roles": [
+                                "Tamino"
+                            ],
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_06.mp3",
+                            "start": "00:20:36",
+                            "end": "00:24:28"
+                        },
+                        {
+                            "id": 7,
+                            "label": "Ruste dich mit Mut und Standhaftigkeit",
+                            "type": "recitative",
+                            "roles": [
+                                "Tamino",
+                                "First Lady",
+                                "Second Lady",
+                                "Third Lady"
+                            ],
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_07.mp3",
+                            "start": "00:24:28",
+                            "end": "00:24:50"
+                        },
+                        {
+                            "id": 15,
+                            "label": "Bei M\u00e4nnern welche Liebe f\u00fchlen",
+                            "type": "duet",
+                            "roles": [
+                                "Pamina",
+                                "Papageno"
+                            ],
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_15.mp3",
+                            "start": "00:39:12",
+                            "end": "00:42:21"
+                        },
+                        {
+                            "id": 16,
+                            "label": "Zum Ziele f\u00fchrt dich diese Bahn",
+                            "type": "quartet",
+                            "roles": [
+                                "Tamino",
+                                "First Boy",
+                                "Second Boy",
+                                "Third Boy"
+                            ],
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_16.mp3",
+                            "start": "00:42:26",
+                            "end": "00:44:11"
+                        },
+                        {
+                            "id": 44,
+                            "label": "O Isis und Osiris welche Wonne",
+                            "type": "choir",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_44.mp3",
+                            "start": "01:08:09",
+                            "end": "01:10:53"
+                        }
+                    ]
                 },
                 {
                     "venue": "New York City Opera",
@@ -461,7 +578,7 @@
                             ],
                             "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_14.mp3",
                             "start": "00:35:44",
-                            "end": "00:38:03"
+                            "end": "00:38:04"
                         },
                         {
                             "id": 15,
@@ -702,7 +819,7 @@
                             "type": "choir",
                             "audio_url": "https://operatinder.s3.amazonaws.com/WAM-079-T1-C2_Q5064_44.mp3",
                             "start": "01:10:40",
-                            "end": "14:00:00"
+                            "end": "01:13:56"
                         }
                     ]
                 },
