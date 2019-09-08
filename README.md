@@ -1,6 +1,6 @@
 # :performing_arts: Opera Forever :ring:
 
-A [#GLAMhack](http://make.opendata.ch/wiki/project:opera_tinder) created at Arsénaux, Sion, Switzerland on September 6-8, 2019.
+A [#mixnhack](http://make.opendata.ch/wiki/project:opera_forever) created with [Open Cultural Data](https://openglam.ch) at Arsénaux, Sion, Switzerland on September 6-8, 2019.
 
 Made with [Vue.js](https://vuejs.org/v2/cookbook/index.html) and [Bootstrap Vue](https://bootstrap-vue.js.org/docs/).
 
