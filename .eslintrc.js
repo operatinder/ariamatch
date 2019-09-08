@@ -12,6 +12,7 @@ module.exports = {
     'vue/require-default-prop': 'off',
     'vue/attribute-hyphenation': 'off',
     'vue/v-bind-style': 'off',
-    'vue/attributes-order': 'off'
+    'vue/attributes-order': 'off',
+    'vue/singleline-html-element-content-newline': 'off'
   },
 };

@@ -2,23 +2,23 @@
   <div class="simple-navigator">
     <div class="row">
       <div class="col-12">
-        <button class="btn btn-primary navigation-btn" @click="prevRecording">&#129093</button>
+        <button class="btn btn-primary navigation-btn" @click="prevRecording">&#129093;</button>
       </div>
     </div>
     <div class="row">
       <div class="col-1 btn-column floatLeft">
-        <button class="btn btn-primary navigation-btn" @click="prevAria">&#129092</button>
+        <button class="btn btn-primary navigation-btn" @click="prevAria">&#129092;</button>
       </div>
       <div class="col-10">
         <AriaCard :ariaData="current" />
       </div>
       <div class="col-1 btn-column floatRight">
-        <button class="btn btn-primary navigation-btn" @click="nextAria">&#129094</button>
+        <button class="btn btn-primary navigation-btn" @click="nextAria">&#129094;</button>
       </div>
     </div>
     <div class="row">
-      <div class="col-12">
-        <button class="btn btn-primary navigation-btn" @click="nextRecording">&#129095</button>
+      <div class="col-12 floatBottom">
+        <button class="btn btn-primary navigation-btn" @click="nextRecording">&#129095;</button>
       </div>
     </div>
   </div>
