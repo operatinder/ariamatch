@@ -8,6 +8,14 @@
   text-align: center;
   color: #2c3e50;
   overflow: hidden;
+  background: #f0f0f0;
+}
+
+html { height: 100%; overflow: hidden; }
+body {
+  background: url('../assets/1024px-Mozart_magic_flute.jpg') no-repeat;
+  background-size: 100%;
+  background-position: bottom;
 }
 
 .about {
@@ -30,6 +38,7 @@
 .aria-card {
   height: 100%;
   width: 100%;
+  padding-top: 2em;
 }
 
 .a-row {
@@ -63,8 +72,4 @@
   background-color: white !important;
   border: none !important;
   font-size: xx-large !important;
-}
-
-html, #app {
-  background: #ffffff;
 }

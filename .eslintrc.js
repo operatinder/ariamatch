@@ -11,6 +11,7 @@ module.exports = {
     'vue/max-attributes-per-line': 'off',
     'vue/require-default-prop': 'off',
     'vue/attribute-hyphenation': 'off',
-    'vue/v-bind-style': 'off'
+    'vue/v-bind-style': 'off',
+    'vue/attributes-order': 'off'
   },
 };

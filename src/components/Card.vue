@@ -30,9 +30,6 @@
         <audio :src="ariaData.audio_url" ref="ariaaudio" controls="true" autoplay="true" />
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm"></div>
-    </div>
   </div>
 </template>
 
@@ -49,7 +46,3 @@ export default {
   }
 };
 </script>
-
-<style scoped lang="scss">
-// See app.scss
-</style>

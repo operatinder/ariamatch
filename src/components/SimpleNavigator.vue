@@ -6,13 +6,13 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-1 btn-column">
+      <div class="col-1 btn-column floatLeft">
         <button class="btn btn-primary navigation-btn" @click="prevAria">&#129092</button>
       </div>
       <div class="col-10">
         <AriaCard :ariaData="current" />
       </div>
-      <div class="col-1 btn-column">
+      <div class="col-1 btn-column floatRight">
         <button class="btn btn-primary navigation-btn" @click="nextAria">&#129094</button>
       </div>
     </div>
@@ -72,4 +72,14 @@ export default {
 
 <style scoped lang="scss">
 // See app.scss
+.btn-column .btn {
+  top: 25%;
+  position: fixed;
+}
+.floatLeft .btn {
+   left:0px
+}
+.floatRight .btn {
+  right:0px;
+}
 </style>
