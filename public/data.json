@@ -164,7 +164,7 @@
                             "Second Lady": "Janet Winburn"
                         }
                     ],
-                    "id": "WAM-18",
+                    "id": "WAM-018",
                     "recording": "NYCO-Tape18-Track1-Channel2"
                 },
                 {
@@ -202,14 +202,14 @@
                             "Papagena": "Patricia Wise"
                         }
                     ],
-                    "id": "WAM-19",
+                    "id": "WAM-019",
                     "recording": "NYCO-Tape19-Track2-Channel1",
                     "segments": [
                         {
                             "id": 1,
                             "label": "Overture",
                             "type": "instrumental",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-19-T002-C1_Q5064_01.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-019-T2-C1_Q5064_01.mp3",
                             "start": "00:00:01",
                             "end": "00:06:16"
                         },
@@ -223,7 +223,7 @@
                                 "Second Lady",
                                 "Third Lady"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-19-T002-C1_Q5064_02.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-019-T2-C1_Q5064_02.mp3",
                             "start": "00:06:20",
                             "end": "00:12:34"
                         },
@@ -234,7 +234,7 @@
                             "roles": [
                                 "Tamino"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-19-T002-C1_Q5064_03.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-019-T2-C1_Q5064_03.mp3",
                             "start": "00:12:35",
                             "end": "00:12:43"
                         },
@@ -246,7 +246,7 @@
                                 "Pamina",
                                 "Papageno"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-19-T002-C1_Q5064_15.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-019-T2-C1_Q5064_15.mp3",
                             "start": "00:35:27",
                             "end": "00:38:42"
                         },
@@ -260,7 +260,7 @@
                                 "Second Boy",
                                 "Third Boy"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-19-T002-C1_Q5064_16.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-019-T2-C1_Q5064_16.mp3",
                             "start": "00:38:46",
                             "end": "00:40:35"
                         },
@@ -268,7 +268,7 @@
                             "id": 44,
                             "label": "O Isis und Osiris welche Wonne",
                             "type": "choir",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-19-T002-C1_Q5064_44.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-019-T2-C1_Q5064_44.mp3",
                             "start": "01:04:16",
                             "end": "01:06:53"
                         }
@@ -306,14 +306,14 @@
                             "Pamina": "Teresa Zylis-Gara"
                         }
                     ],
-                    "id": "WAM-20",
+                    "id": "WAM-020",
                     "recording": "NYCO-Tape20-Track2-Channel1",
                     "segments": [
                         {
                             "id": 1,
                             "label": "Overture",
                             "type": "instrumental",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_01.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_01.mp3",
                             "start": "00:00:00",
                             "end": "00:06:47"
                         },
@@ -327,7 +327,7 @@
                                 "Second Lady",
                                 "Third Lady"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_02.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_02.mp3",
                             "start": "00:06:48",
                             "end": "00:12:19"
                         },
@@ -338,7 +338,7 @@
                             "roles": [
                                 "Tamino"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_03.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_03.mp3",
                             "start": "00:12:24",
                             "end": "00:12:40"
                         },
@@ -349,7 +349,7 @@
                             "roles": [
                                 "Papageno"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_04.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_04.mp3",
                             "start": "00:12:39",
                             "end": "00:15:06"
                         },
@@ -361,7 +361,7 @@
                                 "Tamino",
                                 "Papageno"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_05.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_05.mp3",
                             "start": "00:15:13",
                             "end": "00:18:30"
                         },
@@ -372,7 +372,7 @@
                             "roles": [
                                 "Tamino"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_06.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_06.mp3",
                             "start": "00:18:31",
                             "end": "00:22:41"
                         },
@@ -386,7 +386,7 @@
                                 "Second Lady",
                                 "Third Lady"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_07.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_07.mp3",
                             "start": "00:22:43",
                             "end": "00:23:23"
                         },
@@ -397,7 +397,7 @@
                             "roles": [
                                 "Queen of the Night"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_08.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_08.mp3",
                             "start": "00:23:23",
                             "end": "00:24:30"
                         },
@@ -408,7 +408,7 @@
                             "roles": [
                                 "Queen of the Night"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_09.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_09.mp3",
                             "start": "00:24:31",
                             "end": "00:28:02"
                         },
@@ -419,7 +419,7 @@
                             "roles": [
                                 "Tamino"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_10.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_10.mp3",
                             "start": "00:28:04",
                             "end": "00:28:10"
                         },
@@ -434,7 +434,7 @@
                                 "Second Lady",
                                 "Third Lady"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_11.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_11.mp3",
                             "start": "00:28:10",
                             "end": "00:33:45"
                         },
@@ -447,7 +447,7 @@
                                 "Monostatos",
                                 "Papageno"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_13.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_13.mp3",
                             "start": "00:34:02",
                             "end": "00:35:43"
                         },
@@ -459,7 +459,7 @@
                                 "Pamina",
                                 "Papageno"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_14.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_14.mp3",
                             "start": "00:35:44",
                             "end": "00:38:03"
                         },
@@ -471,7 +471,7 @@
                                 "Pamina",
                                 "Papageno"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_15.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_15.mp3",
                             "start": "00:38:05",
                             "end": "00:41:20"
                         },
@@ -485,7 +485,7 @@
                                 "Second Boy",
                                 "Third Boy"
                             ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_16.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_16.mp3",
                             "start": "00:41:34",
                             "end": "00:43:08"
                         },
@@ -493,7 +493,7 @@
                             "id": 44,
                             "label": "O Isis und Osiris welche Wonne",
                             "type": "choir",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-20-T002-C1_Q5064_44.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_44.mp3",
                             "start": "01:08:38",
                             "end": "01:11:42"
                         }
@@ -528,14 +528,14 @@
                             "Monostatos": "Jerold Siena"
                         }
                     ],
-                    "id": "WAM-56",
+                    "id": "WAM-056",
                     "recording": "NYCO-Tape56-Track1-Channel1",
                     "segments": [
                         {
                             "id": 44,
                             "label": "O Isis und Osiris welche Wonne",
                             "type": "choir",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-56-T001-C1_Q5064_44.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-056-T1-C1_Q5064_44.mp3",
                             "start": "02:45:52",
                             "end": "02:48:30"
                         }
@@ -579,14 +579,14 @@
                             "Sarastro": "John Calvin West"
                         }
                     ],
-                    "id": "WAM-76",
+                    "id": "WAM-076",
                     "recording": "NYCO-Tape76-Track1-Channel2",
                     "segments": [
                         {
                             "id": 44,
                             "label": "O Isis und Osiris welche Wonne",
                             "type": "choir",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-76-T001-C2_Q5064_44.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-076-T1-C2_Q5064_44.mp3",
                             "start": "01:15:46",
                             "end": "01:18:41"
                         }
@@ -636,14 +636,14 @@
                             "Second Armoured Man": "Richard Vernon"
                         }
                     ],
-                    "id": "WAM-79",
+                    "id": "WAM-079",
                     "recording": "NYCO-Tape79-Track1-Channel1",
                     "segments": [
                         {
                             "id": 44,
                             "label": "O Isis und Osiris welche Wonne",
                             "type": "choir",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-79-T001-C1_Q5064_44.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-079-T1-C1_Q5064_44.mp3",
                             "start": "01:09:32",
                             "end": "01:12:05"
                         }
@@ -693,14 +693,14 @@
                             "Papagena": "Lillian Raymondi"
                         }
                     ],
-                    "id": "WAM-79",
+                    "id": "WAM-079",
                     "recording": "NYCO-Tape79-Track1-Channel2",
                     "segments": [
                         {
                             "id": 44,
                             "label": "O Isis und Osiris welche Wonne",
                             "type": "choir",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-79-T001-C2_Q5064_44.mp3",
+                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-079-T1-C2_Q5064_44.mp3",
                             "start": "01:10:40",
                             "end": "14:00:00"
                         }
