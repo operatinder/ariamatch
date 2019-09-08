@@ -281,54 +281,6 @@
                             "end": "00:15:37"
                         },
                         {
-                            "id": 4,
-                            "label": "Der Vogelf\u00e4nger bin ich ja",
-                            "type": "aria",
-                            "roles": [
-                                "Papageno"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_04.mp3",
-                            "start": "00:15:38",
-                            "end": "00:18:06"
-                        },
-                        {
-                            "id": 5,
-                            "label": "He da! Was da!",
-                            "type": "recitative",
-                            "roles": [
-                                "Tamino",
-                                "Papageno"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_05.mp3",
-                            "start": "00:18:09",
-                            "end": "00:20:34"
-                        },
-                        {
-                            "id": 6,
-                            "label": "Dies Bildnis ist bezaubernd sch\u00f6n",
-                            "type": "aria",
-                            "roles": [
-                                "Tamino"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_06.mp3",
-                            "start": "00:20:36",
-                            "end": "00:24:28"
-                        },
-                        {
-                            "id": 7,
-                            "label": "Ruste dich mit Mut und Standhaftigkeit",
-                            "type": "recitative",
-                            "roles": [
-                                "Tamino",
-                                "First Lady",
-                                "Second Lady",
-                                "Third Lady"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-018-T1-C2_Q5064_07.mp3",
-                            "start": "00:24:28",
-                            "end": "00:24:50"
-                        },
-                        {
                             "id": 15,
                             "label": "Bei M\u00e4nnern welche Liebe f\u00fchlen",
                             "type": "duet",
@@ -559,127 +511,6 @@
                             "end": "00:12:40"
                         },
                         {
-                            "id": 4,
-                            "label": "Der Vogelf\u00e4nger bin ich ja",
-                            "type": "aria",
-                            "roles": [
-                                "Papageno"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_04.mp3",
-                            "start": "00:12:39",
-                            "end": "00:15:06"
-                        },
-                        {
-                            "id": 5,
-                            "label": "He da! Was da!",
-                            "type": "recitative",
-                            "roles": [
-                                "Tamino",
-                                "Papageno"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_05.mp3",
-                            "start": "00:15:13",
-                            "end": "00:18:30"
-                        },
-                        {
-                            "id": 6,
-                            "label": "Dies Bildnis ist bezaubernd sch\u00f6n",
-                            "type": "aria",
-                            "roles": [
-                                "Tamino"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_06.mp3",
-                            "start": "00:18:31",
-                            "end": "00:22:41"
-                        },
-                        {
-                            "id": 7,
-                            "label": "Ruste dich mit Mut und Standhaftigkeit",
-                            "type": "recitative",
-                            "roles": [
-                                "Tamino",
-                                "First Lady",
-                                "Second Lady",
-                                "Third Lady"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_07.mp3",
-                            "start": "00:22:43",
-                            "end": "00:23:23"
-                        },
-                        {
-                            "id": 8,
-                            "label": "O zittre nicht mein lieber Sohn",
-                            "type": "recitative,aria",
-                            "roles": [
-                                "Queen of the Night"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_08.mp3",
-                            "start": "00:23:23",
-                            "end": "00:24:30"
-                        },
-                        {
-                            "id": 9,
-                            "label": "Zum Leiden bin ich auserkoren",
-                            "type": "aria",
-                            "roles": [
-                                "Queen of the Night"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_09.mp3",
-                            "start": "00:24:31",
-                            "end": "00:28:02"
-                        },
-                        {
-                            "id": 10,
-                            "label": "Ist es denn auch Wirklichkeit",
-                            "type": "recitative",
-                            "roles": [
-                                "Tamino"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_10.mp3",
-                            "start": "00:28:04",
-                            "end": "00:28:10"
-                        },
-                        {
-                            "id": 11,
-                            "label": "Hm! hm! hm! hm!",
-                            "type": "quintet",
-                            "roles": [
-                                "Papageno",
-                                "Tamino",
-                                "First Lady",
-                                "Second Lady",
-                                "Third Lady"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_11.mp3",
-                            "start": "00:28:10",
-                            "end": "00:33:45"
-                        },
-                        {
-                            "id": 13,
-                            "label": "Du feines Taubchen nur herein",
-                            "type": "trio",
-                            "roles": [
-                                "Pamina",
-                                "Monostatos",
-                                "Papageno"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_13.mp3",
-                            "start": "00:34:02",
-                            "end": "00:35:43"
-                        },
-                        {
-                            "id": 14,
-                            "label": "Mutter Mutter!",
-                            "type": "recitative",
-                            "roles": [
-                                "Pamina",
-                                "Papageno"
-                            ],
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-020-T2-C1_Q5064_14.mp3",
-                            "start": "00:35:44",
-                            "end": "00:38:04"
-                        },
-                        {
                             "id": 15,
                             "label": "Bei M\u00e4nnern welche Liebe f\u00fchlen",
                             "type": "duet",
@@ -753,17 +584,7 @@
                         }
                     ],
                     "id": "WAM-056",
-                    "recording": "NYCO-Tape56-Track1-Channel1",
-                    "segments": [
-                        {
-                            "id": 44,
-                            "label": "O Isis und Osiris welche Wonne",
-                            "type": "choir",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-056-T1-C1_Q5064_44.mp3",
-                            "start": "02:45:52",
-                            "end": "02:48:30"
-                        }
-                    ]
+                    "recording": "NYCO-Tape56-Track1-Channel1"
                 },
                 {
                     "venue": "New York City Opera",
@@ -815,17 +636,7 @@
                         }
                     ],
                     "id": "WAM-076",
-                    "recording": "NYCO-Tape76-Track1-Channel2",
-                    "segments": [
-                        {
-                            "id": 44,
-                            "label": "O Isis und Osiris welche Wonne",
-                            "type": "choir",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-076-T1-C2_Q5064_44.mp3",
-                            "start": "01:15:46",
-                            "end": "01:18:41"
-                        }
-                    ]
+                    "recording": "NYCO-Tape76-Track1-Channel2"
                 },
                 {
                     "venue": "Metropolitan Opera, New York",
@@ -885,17 +696,7 @@
                         }
                     ],
                     "id": "WAM-079",
-                    "recording": "NYCO-Tape79-Track1-Channel1",
-                    "segments": [
-                        {
-                            "id": 44,
-                            "label": "O Isis und Osiris welche Wonne",
-                            "type": "choir",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-079-T1-C1_Q5064_44.mp3",
-                            "start": "01:09:32",
-                            "end": "01:12:05"
-                        }
-                    ]
+                    "recording": "NYCO-Tape79-Track1-Channel1"
                 },
                 {
                     "venue": "Metropolitan Opera, New York",
@@ -955,17 +756,7 @@
                         }
                     ],
                     "id": "WAM-079",
-                    "recording": "NYCO-Tape79-Track1-Channel2",
-                    "segments": [
-                        {
-                            "id": 44,
-                            "label": "O Isis und Osiris welche Wonne",
-                            "type": "choir",
-                            "audio_url": "https://operatinder.s3.amazonaws.com/WAM-079-T1-C2_Q5064_44.mp3",
-                            "start": "01:10:40",
-                            "end": "01:13:56"
-                        }
-                    ]
+                    "recording": "NYCO-Tape79-Track1-Channel2"
                 },
                 {
                     "venue": "New York City Opera",

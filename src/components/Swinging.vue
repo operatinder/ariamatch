@@ -47,10 +47,11 @@ export default {
       config: {
         allowedDirections: [
           VueSwing.Direction.LEFT,
-          VueSwing.Direction.RIGHT
+          VueSwing.Direction.RIGHT,
+          VueSwing.Direction.TOP,
+          VueSwing.Direction.DOWN
         ],
-        minThrowOutDistance: 250,
-        maxThrowOutDistance: 300
+        maxRotation: 0
       }
     }
   },
@@ -60,6 +61,22 @@ export default {
         console.log(e)
     },
     onThrowout ({ target, throwDirection }) {
+      if(throwDirection==VueSwing.Direction.DOWN)
+      {
+        this.$emit('next-recording');
+      }
+      else if(throwDirection==VueSwing.Direction.UP)
+      {
+        this.$emit('prev-recording')
+      }
+      else if(throwDirection==VueSwing.Direction.LEFT)
+      {
+        this.$emit('next-aria')
+      }
+      else if(throwDirection==VueSwing.Direction.RIGHT)
+      {
+        this.$emit('prev-aria')
+      }
       target.hidden = true
       // console.log(`Threw out ${target.textContent}!`)
     }
